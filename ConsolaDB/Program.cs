@@ -20,6 +20,7 @@ namespace ConsolaDB
                 SqlCommand objComando = new SqlCommand("select * from Articulos", objConectar);
                 SqlDataReader objTabla = objComando.ExecuteReader();
                 try {
+                    Console.WriteLine("Código\tNombre\tValor\tCantidad");
                     while (objTabla.Read())
                     {
                         Console.WriteLine("" + objTabla[0] + "\t" + objTabla["nombre"]
