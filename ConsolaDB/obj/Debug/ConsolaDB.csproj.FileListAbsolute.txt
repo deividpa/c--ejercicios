@@ -1,0 +1,7 @@
+C:\Users\salak406.SALASFR\Desktop\Consola\ConsolaDB\ConsolaDB\obj\Debug\ConsolaDB.csproj.AssemblyReference.cache
+C:\Users\salak406.SALASFR\Desktop\Consola\ConsolaDB\ConsolaDB\obj\Debug\ConsolaDB.csproj.CoreCompileInputs.cache
+C:\Users\salak406.SALASFR\Desktop\Consola\ConsolaDB\ConsolaDB\bin\Debug\ConsolaDB.exe.config
+C:\Users\salak406.SALASFR\Desktop\Consola\ConsolaDB\ConsolaDB\bin\Debug\ConsolaDB.exe
+C:\Users\salak406.SALASFR\Desktop\Consola\ConsolaDB\ConsolaDB\bin\Debug\ConsolaDB.pdb
+C:\Users\salak406.SALASFR\Desktop\Consola\ConsolaDB\ConsolaDB\obj\Debug\ConsolaDB.exe
+C:\Users\salak406.SALASFR\Desktop\Consola\ConsolaDB\ConsolaDB\obj\Debug\ConsolaDB.pdb
